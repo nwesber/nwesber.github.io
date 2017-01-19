@@ -304,6 +304,11 @@ LANGUAGES
 #language-skills .skill .icons-red{
   background: url(../img/star-red.png) no-repeat;
 }
+
+.stars{
+  width: 80%;
+  height: 14px;
+}
 /*******************************************
 HOBBIES
 *******************************************/
