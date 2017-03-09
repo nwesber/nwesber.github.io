@@ -105,9 +105,6 @@ ul
   }
 }
 
-/* ------------------------- Start Breadcrumb ------------------------- */
-
-
 *,
 *::before,
 *::after {
@@ -300,8 +297,8 @@ body {
 .home-content{
   padding-top: 50px;
   padding-bottom: 50px;
-  margin-left: 10px;
-  margin-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 aside.clients img {
@@ -311,3 +308,4 @@ aside.clients img {
 .bg-color{
   background-color: #eee;
 }
+
