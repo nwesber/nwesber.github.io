@@ -29,6 +29,10 @@ CONTAINER
   margin-bottom: 15px;
   background: #fff;
 }
+
+.clearTop{
+  margin-top: 10px;
+}
 /*******************************************
 PHOTO (AVATAR)
 *******************************************/
