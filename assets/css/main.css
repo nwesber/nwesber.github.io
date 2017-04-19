@@ -47,6 +47,13 @@ PHOTO (AVATAR)
   padding: 5px;
   background: #ededed;
   display: inline-block;
+  user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  pointer-events: none;
 }
 #photo img{
   width: 150px;
