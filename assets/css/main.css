@@ -33,6 +33,14 @@ CONTAINER
 .clearTop{
   margin-top: 10px;
 }
+
+.list-none{
+  list-style: none;
+}
+
+a{
+  color: #363636;
+}
 /*******************************************
 PHOTO (AVATAR)
 *******************************************/
